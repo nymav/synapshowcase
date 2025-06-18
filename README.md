@@ -20,7 +20,7 @@ Originally crafted by [Nikhil Yarra](https://github.com/nymav), this template ca
 
 ## 🗀️ Screenshots
 
-| Home & Projects                 | Certifications                                      |
+| Home                            | Projects                                            |
 | ------------------------------- | --------------------------------------------------- |
 | ![Intro](./public/images/intro.png) | ![Home](./public/images/home.png) |
 
