@@ -3,7 +3,7 @@
 A vibrant, glowing developer portfolio template built with **React + Vite + Tailwind CSS**.
 Designed to showcase your **AI/ML projects, certifications, and developer journey** in a cinematic retro-futuristic style.
 
-Originally crafted by [Nikhil Yarra](https://github.com/nymav), this template captures the energy of gaming aesthetics with practical sections for recruiters, collaborators, and tech enthusiasts.
+Crafted by me, this template captures the energy of gaming aesthetics with practical sections for recruiters, collaborators, and tech enthusiasts.
 
 ---
 
