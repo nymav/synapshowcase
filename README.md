@@ -1,4 +1,4 @@
-# 🧠 synapshowcase
+# synapshowcase
 
 A vibrant, glowing developer portfolio template built with **React + Vite + Tailwind CSS**.
 Designed to showcase your **AI/ML projects, certifications, and developer journey** in a cinematic retro-futuristic style.
@@ -7,18 +7,18 @@ Crafted by me, this template captures the energy of gaming aesthetics with pract
 
 ---
 
-## 🌟 Features
+## Features
 
-* 🎮 Game-style intro with custom cursor and glow effects
-* 🚀 Smooth section transitions (Home, Projects, About, Certifications)
-* 🎓 Certification cards with platform icons (Coursera, Forage, etc.)
-* 💡 Dark-themed UI with minimalistic, neon glow touches
-* ⚡️ Built with **Vite**, **React**, and **Framer Motion**
-* 📱 Fully responsive & mobile-ready
+*  Game-style intro with custom cursor and glow effects
+*  Smooth section transitions (Home, Projects, About, Certifications)
+*  Certification cards with platform icons (Coursera, Forage, etc.)
+*  Dark-themed UI with minimalistic, neon glow touches
+*  Built with **Vite**, **React**, and **Framer Motion**
+*  Fully responsive & mobile-ready
 
 ---
 
-## 🗀️ Screenshots
+## Screenshots
 
 | Home                            | Projects                                            |
 | ------------------------------- | --------------------------------------------------- |
@@ -28,7 +28,7 @@ Crafted by me, this template captures the energy of gaming aesthetics with pract
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```bash
 synapshowcase/
@@ -54,7 +54,7 @@ synapshowcase/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repo
 
@@ -79,7 +79,7 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
-## 🧪 Build for Production
+## Build for Production
 
 ```bash
 npm run build
@@ -89,7 +89,7 @@ Output files will be in the `dist/` folder.
 
 ---
 
-## ✏️ Customization
+## Customization
 
 * Update profile picture in `public/`
 * Edit `src/components/sections` to update sections like Home, Projects, About
@@ -98,7 +98,7 @@ Output files will be in the `dist/` folder.
 
 ---
 
-## 🌐 Deployment
+## Deployment
 
 Easily deploy using:
 
@@ -106,8 +106,6 @@ Easily deploy using:
 * **Netlify**
 * **GitHub Pages** (with Vite adapter)
 
-> Need help deploying? I can provide a `vercel.json` or `gh-pages` guide on request.
+For GitHub Pages, configure Vite’s base path for the repository before building.
 
 ---
-
-> Built to impress. Made to inspire. Welcome to your **synapshowcase**.
